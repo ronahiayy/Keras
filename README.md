@@ -7,7 +7,7 @@ Syntax açısından diğer kütüphanelere kıyasla daha temiz ve anlaşılırd�
  
  #Haar-like Features
  
-  Kenar(Edge) , Çizgi(Line),Dört-Kare(Four-Reactangle) özellikleri ile görüntüyü işlemeye çalışır.
+  Kenar(Edge) , Çizgi(Line), Dört-Kare(Four-Reactangle) özellikleri ile görüntüyü işlemeye çalışır.
   Örneğin,bir insan yüzünü tanımaya çalışırken yüzü, bu üç özelliği kullanarak tanımaya çalışır.
   Güçlü bir algoritma olsa da bazı dezavantajları mevcuttur.Yüzün üzerine gölge düşmesi,deforme olması veya başka bir açıda durması gibidurumlarda 
   pek de iyi bir sonuç vermeyecektir.
